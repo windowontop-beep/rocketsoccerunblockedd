@@ -1,1 +1,0 @@
-var wgDomainOnboarded = false;
